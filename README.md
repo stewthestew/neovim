@@ -1,4 +1,4 @@
-I probably wont maintane this for long. So use it at your own risk
+I probably wont maintane this for long, so use it at your own risk
 
 
 
