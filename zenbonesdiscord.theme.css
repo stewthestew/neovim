@@ -10,6 +10,7 @@
  * @website https://mwittrien.github.io/
  * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
  * @BDEditor DiscordRecolor
+ * YES I USED AN ONLINE EDITOR SO WHAT
 */
 
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
@@ -25,7 +26,7 @@
   --textdark: 44,54,60;
   --textdarker: 44,54,60;
   --textdarkest: 44,54,60;
-  --font: Iosevka Term;
+  --font: gg sans;
   --backgroundaccent: 214,205,201;
   --backgroundprimary: 240,237,236;
   --backgroundsecondary: 240,237,236;
