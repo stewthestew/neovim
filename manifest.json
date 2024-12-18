@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "mellifluous",
+  "version": "1.0",
+  "description": "mellifluous ported from Neovim to Chrome",
+  "theme": {
+    "colors": {
+      "frame": [214, 205, 201],
+      "toolbar": [240, 237, 236],
+      "tab_text": [44, 54, 60],
+      "ntp_background": [240, 237, 236],
+      "ntp_text": [44, 54, 60],
+      "button_background": [203, 217, 227]
+    }
+  }
+}
