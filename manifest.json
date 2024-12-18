@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "mellifluous",
+  "name": "Zenbones",
   "version": "1.0",
-  "description": "mellifluous ported from Neovim to Chrome",
+  "description": "Zenbones light theme ported to chrome",
   "theme": {
     "colors": {
       "frame": [214, 205, 201],
